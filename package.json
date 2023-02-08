@@ -1,6 +1,6 @@
 {
-  "name": "frontend-take-home-assignment",
-  "homepage": "https://gitname.github.io/origin-financial-assignment",
+  "name": "frontend",
+  "homepage": "https://gitname.github.io/origin-financial",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

@@ -1,6 +1,6 @@
 ### project address:
 
-https://fajuchem.github.io/origin-financial-assignment/ <br />
+https://fajuchem.github.io/origin-financial/ <br />
 
 ### available Scripts
 ```
